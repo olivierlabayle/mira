@@ -21,7 +21,7 @@
 
 Mira turns records from clinical-data providers into traceable Clinical Reports and aggregated Clinical Indications, with drug and disease entities mapped to the identifiers used by Open Targets.
 
-**Start with [How Mira works](docs/concepts.md)** for the concepts, data flow, and links to the detailed documentation.
+**Start with [How Mira works](https://opentargets.org/mira/concepts/)** for the concepts, data flow, and links to the detailed documentation.
 
 ## Installation
 
@@ -35,4 +35,4 @@ For the optional legacy ChEMBL Oracle curation utilities:
 pip install "opentargets-mira[oracle]"
 ```
 
-See the [documentation index](docs/index.md) for data models, providers, Python usage, and CLI configuration.
+See the [documentation index](https://opentargets.org/mira/) for data models, providers, Python usage, and CLI configuration.
